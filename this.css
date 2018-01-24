@@ -1,6 +1,9 @@
 body {
   background-color: powderblue;
 }
+img {
+  border-radius: 50%;
+}
 p {
   font-family: Courier New;
   
