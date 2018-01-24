@@ -8,11 +8,13 @@ fieldset {
   margin-left: 150px;
 }
 
-#d1 {
-  border-radius: 25px;
-  background: #00cc7a;
+#fs1 {
   margin-right: 250px;
   margin-left: 250px;
+}
+
+legend {
+  color: white;
 }
 
 h4 {
