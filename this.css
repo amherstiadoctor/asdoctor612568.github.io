@@ -3,6 +3,9 @@ body {
 }
 img {
   border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 p {
   font-family: Courier New;
