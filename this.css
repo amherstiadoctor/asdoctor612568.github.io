@@ -3,8 +3,9 @@ body {
   background-size: 100% 100%;
 }
 
-#fs1{
-  align-content: center;
+fieldset {
+  margin-right: 150px;
+  margin-left: 150px;
 }
 
 img {
