@@ -15,7 +15,7 @@ fieldset {
   margin-right: 450px;
   margin-left: 450px;
   background: #00a3cc;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px #d9d9d9;
 }
 
 legend {
