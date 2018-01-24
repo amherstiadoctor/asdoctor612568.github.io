@@ -15,6 +15,11 @@ fieldset {
 #fs1 {
   margin-right: 450px;
   margin-left: 450px;
+  background-color: hsla(0, 0%, 66%, 0.3);
+}
+
+#fs2 {
+  background-color: hsla(0, 0%, 66%, 0.3);
 }
 
 legend {
