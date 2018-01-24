@@ -6,13 +6,5 @@ img {
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
-}
-p {
-  font-family: Courier New;
-  
-  background-color: #66ff99;
-  text-align: center;
-  margin: auto;
-  border: 2px solid #ff00ff;
+  width: 5%;
 }
