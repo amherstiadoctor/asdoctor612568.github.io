@@ -5,7 +5,7 @@ body {
 }
 
 fieldset {
-  -webkit-border-radius: 8px;
+  -webkit-border-radius: 8px; <!-- to make the edges round -->
   -moz-border-radius: 8px;
   border-radius: 8px;
   margin-right: 150px;
