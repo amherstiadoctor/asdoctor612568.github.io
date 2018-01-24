@@ -25,6 +25,7 @@ fieldset {
 legend {
   color: white;
   font-family: "Courier";
+  font-size: 150%;
 }
 
 h4 {
