@@ -151,3 +151,8 @@ h2 {
 .icon{
 	margin-left: 150px;
 }
+margin-left: 150px;
+}
+.new{
+	z-index: 10000;
+}
